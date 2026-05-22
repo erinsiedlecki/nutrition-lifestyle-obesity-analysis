@@ -36,15 +36,15 @@ Response variables included:
 
 ### Correlation Heatmap
 
-![Correlation Heatmap](Images/correlation_heatmap.png)
+<img src="Images/correlation_heatmap.png" width="500">
 
 ### BMI Distribution
 
-![BMI Distribution](Images/bmi_distribution.png)
+<img src="Images/bmi_distribution.png" width="500">
 
 ### Obesity Level Distribution
 
-![Obesity Level Distribution](Images/obesity_level_distribution.png)
+<img src="Images/obesity_level_distribution.png" width="500">
 
 Key observations:
 - Weight and BMI were highly correlated, which was expected since BMI is calculated using weight and height
